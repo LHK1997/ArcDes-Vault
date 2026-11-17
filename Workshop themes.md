@@ -1,0 +1,153 @@
+Human Power Plant (人間発電) is an archetype of WIND Psychic monsters. Being Nomi by nature, their condition is to pay LP to Summon them (the Tuners are exempt to the Nomi classification, and act as "Normal Summons" for the deck). Synchro Monsters of the theme make sure you regain the LP you paid for the monsters used for its Synchro Summon, while having passive effects that constrain your opponent and ties them by their feet.
+
+Fandongpai is an archetype of multiple Attributes around the Fiend typing. While they have a slow board-making ability early on, they like your opponent to take initiative first (aka a "play second" deck), to start doing a variety of different plays. They have 2 effects that activate in response to a monster effect, and the other in response to a Spell/Trap Card or effect. The Extra Deck Evolute Monsters, which require specifically "Fandongpai" monsters as material, have varied effects if activated in response to a monster effect, a Spell Card activation, or a Trap Card activation.
+
+Rocket Bandits is an archetype of FIRE Beast-Warrior Tuner and Synchro Monsters and non-Tuner monsters of various Types and Attributes, bearing references to Team Rocket. The Tuner members randomly banish 1 card from your opponent's hand once used for the Synchro Summon of a Rocket Bandits Synchro Monster, which in turn they revive it to your field at will.
+
+DIVER★DRACO is an archetype of WATER Dragon monsters. A purely Ritual theme, they can either reveal themselves to spawn a high-Level Token, or can Tribute monsters you control, Tokens included, to self-Ritual Summon. Spell/Trap members help spawn Tokens and mitigate the lack of Normal Summoning (as they are Ritual-heavy).
+
+Xiongnu is an archetype of Warrior monsters with 1000 DEF and various Attributes, bringing reference to the "Force" series (like Exiled Force and Missing Force). They focus on Tributing your stuff, leading to higher-Level monsters which act like Darkest Diabolos, Lord of the Lair (Special Summoning if you Tribute a monster). While they lack an Extra Deck member, they are mostly Level 4 or 8, so generic Rank 4/8 Xyz Monsters can be used on them.
+
+Nyctem is an archetype of DARK Fiend monsters, split into Level 4 and 8 members, with a Synchro focus. The Level 4 members can be Special Summoned for free.99 on the leftmost or rightmost of your Main Monster Zones (representing dawn and dusk) with zone-changing effects, while the Level 8 monsters, namely the Synchros, can treat a monster in the leftmost or rightmost MMZs as a Tuner for the Synchro Summon, offsetting the Tuner-free nature of the deck. Field Spells are affluent, and can be cycled through, referring to phases of the moon.
+
+DIVER★JACKAL is a WATER Beast-Warrior theme that uses Fusion Monsters. While the Main Deck monsters provide Fusion Summons without the need of Spell/Trap Cards, the Fusion Monsters provide plenty of negation effects, but they let your opponent (the one whose action got negated) do something in return.
+
+DIVER★PANDA is a WATER Beast Pendulum theme. Pendulum Effects work very similarly to Metalfoes and Igknight monsters, they pop themselves to, in return, tag out to other members of the deck, usually of higher Level. Xyz access is affluent, and so is their ability to Xyz Evolution into higher monsters.
+
+Day♡Mare and Night♥︎Mare are two sister archetypes of LIGHT and DARK Beast monsters respectively. They are a horse-themed deck, with a motif that switches from LIGHT "Day♡Mare" monsters on your turn to DARK "Night♥︎Mare" monsters on your opponent's turn. Similarly to "Dream Mirror" monsters, they hold some affinity to their shared Field Spell which combs them together.
+
+Resistance▼Spring is an archetype of Xyz Monsters, of various (primarily DARK) Attributes and Types. Once they destroy an opponent's monster by battle, they get attached to the Xyz that destroy them as material. Moreover, the Xyz members have various effects depending on whose owner's material you are detaching (yours or your opponent's).
+
+Stryphon is an archetype of various-Attribute Dragon-Type monsters that focuses on Fusion Summoning using "Polymerization" (and subsequently cards that always treat it as such, like Fusion Substitute). While the Main Deck monsters are usually what you can expect from a casual Dragon deck of years gone by (not counting Dragon Link) providing swarming and comeback abilities left, right, and center, they support the good ole Polymerization in their own way, and the Fusion members honor it by gaining passive while you Fusion Summon it using Poly or you have a Poly in your GY. Forgot to mention the Fusion Monsters are counterparts of Level 5 or higher non-Fusion Dragon monsters, with a boss being a BEWD counterpart.
+
+Klikker is an archetype of Cyberse Pendulum and (non-Pendulum ofc) Link Monsters of all 4 elemental Attributes in the Main Deck and LIGHT/DARK Link Monsters. While the Pendulum Monsters can only be Pendulum Summoned, or Special Summoned by their Pendulum Effects (and not using other ways, although can be semi-Nomi while at it), the Links Summoned provide scaling value the more Cyberse Pendulum Monsters you have face-up in the Extra Deck. Their Scales are very narrow, often being unfriendly to Pendulum Summoning a big Level range of monsters.
+
+Neuralichen is an archetype of Psychic-Type Link Monsters (and the rest be Zombie-Type) of various Attributes, which utilize on reviving from banishment. They have a rather peculiar hand-trap effect cost. Unlike discarding or sending from your hand to the Graveyard, they outright banish themselves from the hand, providing a healthy banishment for whatever's worth. Spells/Traps provide revival from banishment, in order for the Zombies to activate their effects, while the Link Monsters, culminating to Link-3 "Neuralichen Network", can revive any of your banished Zombies in any of its unoccupied zones.
+
+Darumada is an archetype of DARK Machine (with Warrior key Token and Synchro Monsters) monsters that are relying on a Level 8 Tuner Token with 3000/3000 stats the deck Summons consistently, named Darumada Token (duh). Unlike many a Synchro deck that use addition to Synchro Summon, they capitalize on the Tuner's high Level, in conjunction with the low Levels of the monsters that spawn it to make pseudo-Dark Synchro Monsters a la Ursarctic. Unlike them, they can (and will) be Summoned at a later time besides their intended way, under certain, reactionary, moments.
+
+Starlitte is a LIGHT Galaxy theme that is loosely connected to Satellite Cannon and the other Satellite cards used by Prince Ojin in GX anime. They are Tribute heavy, yet take time to reach maximum potential, using the End Phase to "load" the rocket with enough thrusting force (ATK) to lead the final blow. Spells/Traps of the theme help accelerate the process of stat boosting, and providing it protection from various threats, including them not being Machine, which makes them lose access to cards like Limiter Removal. Prolly a Link boss is on the cards, but not sure.
+
+Tenka is an archetype of LIGHT Fairy monsters that support Field Spells of any kind. Monsters of different "Level groups" (1-4, 5-6, or 7+) "come from" and are more adaptive when a specific Field Spell is active in your Field Zone, namely, if a Field Spell mentioned by name is on the field, their Ignition effects turn into Quick Effects (or in the case of the higher-end monsters, their effects cannot be chained against). There is some room for Extra Deck (or Ritual) Summon methods, but due to the high Level spread, Synchro and Xyz Summons can, and will be, pretty scarce.
+
+Xinhuojing is an archetype of FIRE Cyberse monsters that is centered around a Continuous Trap, "Xinhuojing Stone", which gives their low ATK members some substantial stat boosting, along with other benefits, each different from card to card. The deck contains a good chunk of Link Monsters, and due to the importance of Stone's presence, some cards that treat their names as the Stone.
+
+Dongwuma is a WATER Beast Pendulum archetype, which extends the Pendulum status to its main boss monsters, 1 each of Ritual, Fusion, Synchro, and Xyz. They follow the Ritual -> Fusion -> Synchro -> Xyz cycle, with the Ritual Monster, upon its destruction, place it in the Pendulum Zone, and Summons the Fusion Monster (treating its Summon as a proper one) in its place, and so on. Despite having Synchro and Xyz members, the deck's Level spread is all over the place, making said Summons a tad harder, unless you follow said cycle.
+
+Puppetmech is a Twin archetype of Puppet monsters and another Type which supports a chaos-like strategy. While they lack an Extra Deck, they fuel the GY to Special Summon monsters from your hand, but unlike Chaos monsters which play the Attribute play (or LIGHTs and DARKs), those require a Puppet and a non-Puppet monster from the GY (which only the former needs to be from yours anyways).
+
+Dragon's Forge is a pseudo-archetype of Dragon monsters of various Attributes, spearheaded by the namesake Ritual Spell, "Dragon's Forge", which enables you to Ritual Summon ANY Dragon Ritual Monster, but gets the best of its "juice" if that Ritual Monster is a monster that mentions it.
+
+Dynamight is an archetype of FIRE Thunder (and perhaps some Dinosaurs, the more powerful the monsters are) monsters, which benefit on "during End Phase" stat boosting effects, which can be used to easier stomp opponent's monsters. The boss monster, a Fusion Monster prolly based on the T-Rex, can be alternatively Summoned by Tributing a "Dynamight" monster with ATK at least 2000 higher than its original ATK (maybe a Surplus Monster too? Time will tell).
+
+Ranyanjian is a FIRE Pyro archetype of monsters of a multiple of 3 (so, 3, 6, and a 9 boss). The Equip Spells are the bread and butter of the deck, and the majority of the deck as a whole (barring perhaps some Main Deck and Enhance Monsters), and spawn a Token on activation, and equips to it, while they provide a powerful effect at the cost of it being destroyed. While the Equip Spells of the deck are not very Arm-compatible, that is a non-issue with the Enhance members banishing them as ammo for their effects.
+
+Manticoatl is a bestial Contact Fusion-based deck, focusing on different mythical creatures that are used for the creation of chimeric creatures, not necessarily manticores as the name implies. For example, a Contact Fusion based off of a sphinx will need specifically a human, a lion, and an eagle as material for that, in which case they are banished from the field or GY for the Contact Fusion. Due to them requiring specific names of monsters, they rely on name-changing (a form of shapeshifting) and external support to get each individual piece on the field or GY.
+
+Galaxasworm: A LIGHT Galaxy archetype that is focusing on utilizing the Level 3 monsters for your Link Summon needs. While it lacks starting speed, often relying on Spell/Trap aid for you to make plays, a single Link-3 Link Summon (any Link-3) trigger the "Galaxasworm" monsters' effects to Special Summon them in face-down Defense Position. Some of them are Flip monsters themselves, like their distant cousins in Worms (which are a part of in name and Attribute).
+
+Gaishi Wuxia: A FIRE and WATER Warrior deck of primarily Level 1, 8, and Rank 8 Xyz Monsters, with Ritual Monsters as a sprinkle. The WATER members Level mod your monsters to enable Ritual and Xyz Summon plays (the latter of which get bonuses while they have a Ritual Monster underneath them as material) of them being FIRE monsters. The latter, Ritual and Xyz bosses, Level mod your opponent's monsters on their turn, screwing up their Synchro/Xyz plans at will.
+
+Spyndle is an archetype of WIND Reptile Pendulum Monsters. Both their Pendulum and Monster Effects focus on getting information when you normally shouldn't have access to (like, checking Set cards, random cards in opponent's hand, or the top of the Deck), and then punishing your opponent from using said resources in a varied fasion.
+
+DIVER★LYNX is an archetype of WATER Beast monsters that, when they destroy a monster by battle, you can Xyz Summon a "DIVER★LYNX" Xyz Monster from your Extra Deck (which you wouldn't under normal circumstances, given their Rank is different from most of the Levels of the main monsters), by using your monster as material.
+
+Rebellionstar is an archetype of EARTH Warrior and Beast-Warrior monsters. While the Warrior members are reserved for the Xyz members, the main Beast-Warrior monsters, which are retrains of various Beast-Warrior Normal Monsters like Vorse Raider and Tiger Axe, can attach other members when detached as material by other "Rebellionstar" monsters.
+
+Theos Enopli Legeona is an archetype of EARTH Warrior monsters with Enhance Monster support. The Main Deck monsters mainly have effects that vary from swarming to equipping and even change the equip target of their Equip Spells to another monster. The Enhance members support the "Creed" sub-archetype of Spells that Arm Equip Spells from various locations to appropriate Enhance Monsters.
+
+Porridge is an archetype of WATER Plant monsters. They focus on banishing (thanks to the core Field Spell, "Porridge Kitchen") and providing counters on said "Kitchen" to gain additional perks, culminating on a complete food monster (a boss monster) once all ingredients at the quantities it needed are banished, by putting them back into the Deck.
+
+DIVER★REINDEER is a Northern European-based WATER Beast-Warrior archetype. They go to the side of pure aggression here, providing 3 effects, one passive applying to any Beast-Warrior monster (including their own members), and 2 HOPT-ed effects, an Ignition effect that spawns other "DIVER★REINDEER" monsters, and the other that either sets a utility card for Ritual and Fusion Summons, or an effect that activates if used as a Synchro or Link Material, or an effect while they are under an Xyz Monster. As implied, all Summon methods are used there, even Rituals.
+
+Ethereactor is an archetype of LIGHT Fairy monsters, most of which are high-Level monsters, that react to actions made by your opponent. The Field Spell makes their Summon easier, without your opponent's reliance. High Rank Xyz Monsters might be the lineup of their choice, albeit they are far more oppressive than what the materials can do.
+
+HAL0TRON is an archetype of LIGHT Cyberse monsters, of digitized versions of earlier Yu-Gi-Oh! Fairy monsters. Unlike them (some of which constitute the "Counter Fairy" series), they are centered towards turning opponent's monster's ATK 0, while the higher-end Xyz Monsters punish 0 ATK monsters.
+
+Mirafandom (Mirai (future in Japanese) + fandom) is an archetype of DARK Cyberse monsters, figures/shadows of famous anime characters. They, when your opponent targets them with card effects, banish into the future, but if you control no monsters after that, you are given a bonus, be it healing or what have you. A bunch of Equip Spell compensate for the next to no big ATK monsters perhaps some Enhance Monsters, but besides that, no clue.
+
+Digital☆Circus is an archetype of WIND Cyberse monsters. Bouncing is the name of the game, bouncing themselves and opponent's cards, and even some of them are Spirit monsters. However, the titular Field Spell, "The☆Digital☆Circus", turns those opponent's bouncings into banishing, similar to the card "Nopenguin". The deck offers Pendulum access, which they can turn the sizeable hand they got into a merit, all to Summon powerful Link Monsters.
+
+DIVER★FOX is an archetype of WATER Beast-Warrior monsters. They, like Watt, focus on direct attacking, bypassing any monster that your opponent has on their way, but when they inflict damage from a direct attack, they can either (for Level 1 and 3 monsters) Set that monster face-down as a Spell, clogging their Spell & Trap Zone slots, or (for Level 2 and 4 monsters) outright send a Set card to the GY. The deck has options for Fusion Summons, backed with (probably) a "permanent" Spell Card that can allow you to do that at will.
+
+Mochi★Mochi is an archetype of DARK monsters with 1300 DEF. They specialize in Contact Fusion, in the old-fashioned "Neos" Fusion way, while the deck punishes monsters that were Special Summoned by a Spell/Trap effect, or outright prevents your opponent from Summoning said monsters, effectively crippling them of most Ritual and Fusion plays.
+
+Pixtrix is an archetype of various Attribute and Type monsters, with Cyberse Link Monsters spotted on their native Extra Deck. The Main Deck Twin monsters make them be treated as Cyberse in addition to their typical Type, and support archetypal members, as well as monsters of the Type they are printed as, similarly to "Generaider" monsters, while the Extra Deck Links capitalize from the various Types in your GY to get the maximum output.
+
+Corazzieri is an archetype of WIND Thunder monsters, focusing on Xyz Summoning various higher-ranked members. The Xyz members often have an on-Xyz Summon effect, which can become even more "lethal" the more of their archetypal monsters used for that Xyz Summon, while they themselves can evolve into Rank 8 Xyz Monsters that can be made of 2 Rank 4 "Corazzieri" Xyz Monsters.
+
+Re:Sister
+An EARTH Warrior-Type archetype that specializes in Synchro Summoning using Pendulum Monsters. While you can't find any Tuners, the Pendulum Effects of "Re:Sister" monsters can make 1 of the monsters they just Pendulum Summoned a Tuner, leading to Synchro Summons. The Synchro Monsters themselves gain more power the more allies are ascended into heaven (aka the more Re:Sisters are in face-up Extra Deck).
+
+Liberator Forest
+An EARTH Fairy-Type archetype that focuses on the namesake Field Spell, The Liberator Forest. Upon you bringing cards on the field (be it either Summoning monsters and/or activating other cards, but excluding activating EFFECTS), you are bringing 1 Liberator Counter on that Field Spell, and once some have accumulated, you can "cheat out" Special Summon their protectors of the Liberator Forest from your Extra Deck, which are Synchro Monsters. Or, wait till you can natively use it. In which case, you are losing some perks provided from Summoning by accumulating counters from the forest.
+
+Infurno
+A FIRE Pyro archetype of Synchro Monsters. The members of the archetype require you to take EFFECT damage, so self-inflicting damage would make you to the Synchro aces. The Synchro Monsters have effects that accumulate based on the difference between your and your opponent's LP.
+
+Ryuma
+A deck that is split into 2 Types, both of which are DARK; the DARK Spellcaster monsters, many of which are mid-to-high Level, tag out to DARK Dragon Ryuma monsters, and vice-versa, by returning them from the field to the hand to Summon a "Ryuma" monster of an opposite Type from your Deck, with a "neighboring" Level (1 lower or higher). Most of the Spell/Trap lineup for the deck is Quick-Play Spell-based, and can help with the battle-oriented nature of "Ryuma". Also, the names of the Ryuma monsters are paying Master Duel homage to Yuga Ohdo and Luke's monsters in the SEVENS anime.
+
+Snowbell
+A WATER Spellcaster archetype which brings you the first Union Ritual Monster in the game. The Snowbell Ritual Monsters (which, as mentioned, are Union monsters), can Special Summon 1 of the monsters Tributed for the Ritual Summon, for the purpose of equipping. The basic effect they get is that they are treated as a Tuner, opting for a cheated-out Synchro Summon of their in-theme Synchro Monsters, using the Field Spell "Snowbell Snowy Church", which Tributes a Snowbell Tuner to Synchro Summon a mentioned Synchro Monster.
+
+Barberian is an archetype of EARTH Warrior monsters, focusing around Level 5 monsters. They share a battle-related effect akin to KA-2 Des Scissors and Needle Burrower, but retrofitted to meet the modern era needs. Once the slate is clean, the Continuous Trap "Barberian Lab", quick Xyz Summons your monsters for one final direct attack. Besides that, they have almost no other effects, save a few Summon conditions, while the Xyz members have 0-1 effects (maybe the first non-Effect Xyz Monster that is not Rank 4?)
+
+Serenyeti is a WATER Beast Synchro/Link theme based off all kinds of yeti. Their main focus, however, is not Link Summoning en masse, but rather Synchro Summoning their in-theme Synchro Monsters, which provide 2 standard effects, one Continuous Effect that applies while linked, and one that activates if Special Summoned during your opponent's turn, while their Link Monsters, which can be Summoned using "Override Mode Activate!", a card that resembles Assault Mode Activate!, but turns Synchro Monsters into more powered up Link Monsters, have a Continuous Effect of similar nature as their Synchro forms', but applies anytime, and their effect gives you incentive of Special Summoned by aforementioned Trap. Spell Cards are few, and focus more on Trap Cards to get their stuff up.
+
+Vulcaneer
+A FIRE Pyro-Type Link archetype of deers clad in flames. Almost all of them have 200 DEF, of course save for the Links, for obvious reasons. Their gimmick is to initially use their hand-trap-style effects to load the GY, and then revive with their in-theme cards, or with Rekindling.
+
+Olympovine
+A WATER/FIRE Beast Link archetype of two factions, ending on a Link-5 for each Attribute. The Main Deck members, that are limited in number to make room for their Link members, have effects that activate if used as Link Material, that makes the Link-5 ace of each Attribute easier, be it Token generating or self-Summoning.
+
+Epsilon-Delta
+A WATER/FIRE/EARTH Cyberse Pendulum archetype divided into three sub-factions; the low-Scale, high Level WATER members, the high-Scale, low-Level FIRE members, and the EARTH bosses, which belong in the Main Deck (so perhaps Rituals might be an option). The general shtick of the deck is to Special Summon themselves from the Pendulum Zone if you Special Summoned an "Epsilon-Delta" Pendulum Monster. The EARTH bosses can only be Pendulum Summoned, while providing an effect that places them to the Extra Deck face-up would grant their Pendulum Summon to end up in the Extra Monster Zone.
+
+Lunar Skyflower Dragon
+A DARK Dragon-Type archetype that has Xyz Monsters in their Extra Deck arsenal. The Main Deck monsters have Trigger effects that activate if detaches as material BY the effect of an Xyz Monster, and spawns a Level 1, DARK, Plant-Type, and 0/0 "Lunar Skyflower Dragon Token" in the process, in addition to their usual effects. The Extra Deck Xyz Monsters have weirdly-worded effects that detaches materials not as costs, as usually is the case with most Xyz Monsters, but as part of the effect's resolution, hence triggering the Main Deck monsters' effects. They also revive from the GY by Tributing any number of Plant monsters (the aforementioned Tokens are a prime example of this) and attach an equal number of Dragon monsters from your GY to them, at the expense of them banishing when they leave the field.
+
+Álogo Litótitas
+An equine-based EARTH Beast archetype of primarily Normal (Pendulum) Monsters and Fusion Monsters. While the Main Deck Normal Pendulum Monsters have a very simple role, as they have no Monster Effects, their Pendulum Effects indicate the control/floodgate status of said deck, that being transferred to the Fusion Monsters of the deck. Spell/Trap Cards have one-time use, but can retrieve from the GY (or outright Set, for some Traps) by destroying an "Álogo Litótitas" card from your Pendulum Zone, effectively shutting down their floodgate use.
+
+Combat Jumper is an archetype of WIND Beast-Warrior monsters, with Xyz and Link Monsters belonging to the Warrior-Type. It's a heavily combo-based archetype that focuses on mass swarming and body placing, coupling with a gimmick that makes them attack directly if no other monsters are in their column, except Combat Jumper monsters. The Xyz (and prolly Link too) Monsters have simple enough effects that also help pull that gimmick off.
+
+Fake Type Knight
+A Fusion archetype of various Types, ending on custom Types like those we got in Rush Duel (barring Galaxy). Their shtick is to change opponent's properties for your own advantage. Say, you want a Warrior and your opponent has a field of Warrior-Type monsters? Swap 1 of your monsters' Types with the chosen Warrior's. They can only do that with Levels, Types and Attributes though, so be careful. The Fusion members can broaden what stuff can be swapped from them, and they can swap their (relatively) low ATK and DEF as well as the aforementioned three properties.
+
+Austerity Arbitrator
+A LIGHT Fairy, with DARK Fiend ace monster, Extra Deck-free archetype focusing on Tribute Summoning. The LIGHT Fairies provide easy fodder for the higher-end monsters, which can end up punishing Extra Deck monsters, especially the ones residing in the Extra Monster Zone. The Spell/Trap members of the archetype are following a control-ish strat.
+
+Énoplos Monókeros
+An EARTH Beast-Warrior archetype whose focus is to change monsters' battle positions, and, powered by their Synchro members, to inflict piercing damage (higher-end Synchro members can inflict even double piercing). The Spell/Trap Cards of the archetype provide anti-Link strategies, because a single Link Monster's existence can shut their whole plan down.
+
+Extraterrestiaix
+A Reptile archetype of many Attributes and Summon methods. Their focus is not to Summon their respective Fusion, Synchro, Xyz and Link Monsters in conventional methods, but rather during your opponent's Main Phase, via the Main Deckers' effects. One can take an opponent's monster and use it with this card to Summon an Extraterrestiaix Synchro or Xyz Monster. However, the lower-end monsters can only do 1 Summon at a time. The higher-end monsters allow a bigger variety on what it can Summon.
+
+Texsquirrel
+A low-Level/Rank (perhaps 2) LIGHT Cyberse archetype which revolve around bouncing your own stuff back to the hand or Deck to either mass Special Summon or play the game, with extra plusses if you return one of their Xyz members to the Extra Deck for that. Their Xyz members have the following effects:
+```
+Gains 400 ATK for each card equipped to it. Once per turn, when your opponent activates a monster effect on the field (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, equip that monster to this card.
+```
+The Spells (not Traps) are either Normal or Quick-Play and aid you to Summon and swarm the field effectively.
+
+Metaboomer
+A mutli-Attribute Psychic-Type archetype that focuses on the good old-fashioned LP paying play, leading to the "boomer" Ritual and Fusion Monsters, that were there since the start of time. The Main Deck members all have to do the "trademark" pay 800 LP to either Ritual or Fusion Summon (depending on the monster), along with a variety of effects, while the Fusion and Ritual members all return themselves to the Deck (or Extra Deck, for Fusion) to Summon other Metaboomers from the GY to prevent big hits.
+
+Ákanthos
+A WATER Plant archetype that utilizes Synchro Pendulum Monsters in an effective way. While the Main Deck monsters are not Pendulums per se, even though some have on-Pendulum-Summon effects, the Extra Deck Synchros are, and their purpose is to put pressure on the board, often by destroying monsters by their sheer pressure or by their own effects. Once destroyed, they are put in the Pendulum Zones, with something extra in between them.
+
+Broke N
+A DARK Fiend, Warrior, Beast-Warrior and Zombie archetype that makes post-apocalyptic vibes all over the place. It is a "role-playing" deck, meaning different Types have different purposes within the deck. The Broke N (N can be any name that starts with the letter N) Fiends are low-Level non-Tuner monsters, the Warriors are high-Level Tuners which play the role of the "pseudo-Dark Tuners", enabling them to be Summoned easier, the Beast-Warriors are "regular" Synchro Monsters which can be produced by making 1 of the Fiends a Tuner and using them to Synchro Summon them, while the Zombies, the big bodies of the deck, are "pseudo-Dark Synchro" Synchro Monsters, produced off of the Tuner Warriors and the non-Tuner Beast-Warriors (1 of them needs a Fiend to Synchro with it, reserved for a boss).
+
+Diver Kangaroo
+Diver Kangaroo is a deck of WATER Beast-Warrior monsters, an Australian approach to the Diver super-archetype. It is a Flip deck that plays the column play. Along their flip effect, their key feature is that they can, once per turn, move to another of your empty Monster Zones, and doing something with a card that either belongs to the column the card left or the column it currently is, bringing an alternative to leaping through, without having to attack directly.
+
+Switchpal
+Switchpal is a Pendulum archetype of Cyberse monsters of varying Attributes, specializing in Xyz Summoning. The Pendulum members' Pendulum Effects load the Extra Deck with Pendulums ready to be used as a pool of assembling "lives" for the Xyz Monsters. On to the Xyz Monsters, they can be Xyz Summoned using traditional materials, but you can use a Switchpal of a given Level while you have a set number of face-up Switchpals in your Extra Deck or more. The monster effects of the Pendulum Monsters follow a "Glad Beast"-style tag out method, retconned to fit their Pendulum nature. After battling, they are placed in a vacant Pendulum Zone, and after that, they can Special Summon a Switchpal from the face-up Extra Deck.
+
+Feralfrost Athlete
+A feline, WATER Beast-Warrior archetype that focuses on a Vayu-style Synchro Summon. Main differences are that the Tuners can be used as material for Synchro Summons while on the field, unlike Vayu, and that the Synchro Monsters of the archetype can gain the maximized outcome the more banished Feralfrost Athletes you have. Also, it's a winter sport-based archetype (oh the irony, considering typing in Summer).
+
+Panthera
+A brutal, lethal, misbehaving raunchy full-force deck of EARTH Beast-Warrior monsters. They play the column play, since they have high ATK, their drawbacks are that they can't attack directly PERIOD and can't attack other monsters, besides those that "face" to them (aka they are in the same column). This is incorporated by Link members of this archetype, which offer stronger bodies without the aforementioned restrictions.
